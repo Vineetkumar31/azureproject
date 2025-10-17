@@ -1,0 +1,9 @@
+{
+	"name": "df-azureprojectvineet",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6bc58815-8d90-4a01-b3e3-a001795a9cc8",
+		"tenantId": "1efc9778-683b-4b83-b537-7e589cc904da"
+	}
+}
